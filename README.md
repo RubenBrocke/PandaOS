@@ -1,4 +1,4 @@
-# Starting point
+# PandaOS
 
 [![build-ublue](https://github.com/rubenbrocke/pandaos/actions/workflows/build.yml/badge.svg)](https://github.com/rubenbrocke/pandaos/actions/workflows/build.yml)
 
